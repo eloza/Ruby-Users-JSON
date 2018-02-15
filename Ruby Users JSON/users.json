@@ -1,0 +1,4 @@
+require_relative 'user'
+
+{"name":"Ford","email":"ford@prefect.com","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"name":"Arthur","email":"arthur@dent.com","permissions":{"accounts":"read","policies":"write","users":"write"}}
